@@ -1,7 +1,9 @@
 # Identificação de Objetos em Imagens e Vídeos
 
-Alunos: **Alan Duda dos Santos*, **José Ytalo Ramon de Almeida Gonçalves**
+Alunos: **Alan Duda dos Santos**, **José Ytalo Ramon de Almeida Gonçalves**
+
 Disciplina: Visão Computacional (VC) (2022.1)
+
 Professor: Tácito Trindade
 
 
