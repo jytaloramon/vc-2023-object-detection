@@ -15,6 +15,7 @@
 
 - [Detecção de Objetos](#detecção-de-objetos)
   - [Sumário](#sumário)
+  - [Descrição](#descrição)
   - [Galeria](#galeria)
     - [Imagens](#imagens)
       - [Central Park](#central-park)
@@ -27,6 +28,11 @@
       - [Aero - Por Trás da Aviação](#aero---por-trás-da-aviação)
   - [Conjunto Dados (Rede Neural)](#conjunto-dados-rede-neural)
   - [Referências](#referências)
+
+
+## Descrição
+
+O projeto descrito neste documento versa sobre um sistema de Identificação de Objetos em Imagens e Vídeos. O projeto é construído sobre o módulo DNN (Deep Neural Network) da biblioteca OpenCV (Open Source Computer Vision), utilizando o modelo de rede MobileNet-SSD_v3, que é uma rede do tipo SSD (Single Shot MultiBox Detection) desenvolvida usando o framework TensorFlow (TF) e treinada sobre o conjunto de dados COCO. Esse tipo de rede é baseada em uma única Rede Neural Convolucional, que realiza a detecção e localização de objetos em uma única passagem pela imagem.
 
 
 ## Galeria
