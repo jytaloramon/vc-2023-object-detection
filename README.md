@@ -105,13 +105,13 @@ O projeto descrito neste documento versa sobre um sistema de Identificação de 
 Vídeo Original: <https://youtu.be/dx7hI03spmg>
 
 [![MARQUETTI MKT - Entrada](tumb/mkt.png)](https://drive.google.com/file/d/1lizNnBNN39Vhk175d-zt8g1SuGmOTfb9/view?usp=share_link)
-*Figura: MKT, vídeo de entrada.*
+*Figura: MKT, vídeo de entrada. Clique para assistir.*
 
 [![MARQUETTI MKT - Saída Comun](tumb/mkt-detection-common.png)](https://drive.google.com/file/d/1-PHEcCe-8UjzoKJdWOeUIEcBvwgGVyaM/view?usp=share_link)
-*Figura: MKT, vídeo de saída.*
+*Figura: MKT, vídeo de saída. Clique para assistir.*
 
 [![MARQUETTI MKT - Saída Com Supressão](tumb/mkt-detection-sup.png)](https://drive.google.com/file/d/1-OnnnNbJ0RyP1waAFPpuiZ9VLqSgsEXP/view?usp=share_link)
-*Figura: MKT, vídeo de saída com supressão.*
+*Figura: MKT, vídeo de saída com supressão. Clique para assistir.*
 
 <br>
 
@@ -120,10 +120,10 @@ Vídeo Original: <https://youtu.be/dx7hI03spmg>
 Vídeo Original: <https://www.youtube.com/watch?v=mhz3NBcHSEA>
 
 [![Aero - Por Trás da Aviação - Entrada](tumb/aero.png)](https://drive.google.com/file/d/1yBtR4D9efGaEBpuNiVUx-7O8EfXswAgr/view?usp=share_link)
-*Figura: Aero, vídeo de entrada.*
+*Figura: Aero, vídeo de entrada. Clique para assistir.*
 
 [![Aero - Por Trás da Aviação - Saída](tumb/aero-detection.png)](https://drive.google.com/file/d/1-WYTNzl319iftoPdUCGYKJJzBt9hK8xD/view?usp=share_link)
-*Figura: Aero, vídeo de saída.*
+*Figura: Aero, vídeo de saída. Clique para assistir.*
 
 ## Conjunto Dados (Rede Neural)
 
