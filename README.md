@@ -2,8 +2,8 @@
 
 - **Título**: Identificação de Objetos em Imagens e Vídeos
 - **Alunos**:
-  - Alan Duda dos Santos
-  - José Ytalo Ramon de Almeida Gonçalves
+  - Alan Duda dos Santos (Pesquisa)
+  - José Ytalo Ramon de Almeida Gonçalves (Pesquisa e Modelo de Identificação)
 - **Disciplina**: Visão Computacional (VC) - 2022.2
 - **Professor**: Tácito Trindade de Araújo Tiburtino Neves
 - **Código-Font**:
